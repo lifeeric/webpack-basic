@@ -9,7 +9,7 @@ In this project I setup some loader.
 
 install all the dependencies, run this command in the corrent directory, assuming you have installed npm.
 
-### `npm install'
+### `npm install`
 
 now run this command,
 
