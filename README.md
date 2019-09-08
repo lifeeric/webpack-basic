@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Webpack Basic
 
 This is an amazing project just for me, because I love webpack,
@@ -18,3 +19,23 @@ now run this command,
 
 ### Thank You all!
 
+=======
+# Webpack Basic
+
+This is an amazing project just for me, because I love webpack,
+
+In this project I setup some loader.
+
+
+## How to start over this project
+
+install all the dependencies, run this command in the corrent directory, assuming you have installed npm.
+
+### `npm install`
+
+now run this command,
+
+### `npm run start`
+
+### Thank You all!
+>>>>>>> 046df0f03e4cdc6e61daed9166e2c9230f79f308
